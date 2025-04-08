@@ -107,7 +107,7 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.languaje = 'Español'
 global.nameqr = '𝙡𝙞𝙜𝙝𝙩 𝙔𝙖𝙜𝙖𝙢𝙞 𝙗𝙤𝙩'
-global.sessions = 'Light-Bot-MD-session'
+global.sessions = 'session'
 global.jadi = 'lightjadibots'
 
 global.ch = {
